@@ -1,0 +1,9 @@
+*.o
+*.pro.user
+Makefile
+lab6
+*.qmlc
+*.moc
+*.obj
+build*
+
